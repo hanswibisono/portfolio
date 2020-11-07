@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Hi there! Thank you for taking a look at my portfolio
+### Really appreciate it!
 
 You can use the [editor on GitHub](https://github.com/hanswibisono/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
