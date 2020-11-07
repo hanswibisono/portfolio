@@ -6,7 +6,8 @@ This page is intended to display my portfolio to let you know me better!
 
 ### [Analysis] The Impact of SEA Group’s IPO Towards Shopee Indonesia 
 ![Strategic Management - Shopee](https://user-images.githubusercontent.com/74061521/98436664-c055b300-210f-11eb-80a1-c3cea7879e3b.jpg)
-A final paper for Strategic Management course, the big theme was strategy formulation, implementation, and evaluation. We decided to dig more in e-commerce industry, especially Shopee as industry's leader in innovation and sales of e-commerce in Indonesia.
+<div style="text-align: justify">
+A final paper for Strategic Management course, the big theme was strategy formulation, implementation, and evaluation. We decided to dig more in e-commerce industry, especially Shopee as industry's leader in innovation and sales in Indonesia.</div>
 #### Key Takeaways :
 * The IPO filing from SEA Group opened opportunities for Shopee Indonesia to enhance their product, business, and employee performances
 * Shopee Men is the actualization of Market Penetration by Shopee Indonesia 
