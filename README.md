@@ -1,38 +1,21 @@
-## Hi there! Thank you for taking a look at my portfolio
-### Really appreciate it!
+# Hi there!
+## Thank you for visiting :smile:
 
-You can use the [editor on GitHub](https://github.com/hanswibisono/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Hans Wibisono, a fresh graduate with bachelor degree in business from Prasetiya Mulya University
+This page is intended to display my portfolio to let you know me better!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The Impact of SEA GROUP’S IPO Towards Shopee Indonesia 
+#### Key Takeaways :
+The IPO filing from SEA Group open opportunities for Shopee Indonesia to enhance their product, business, and employee performances
+Shopee Men is the actualization of Market Penetration by Shopee Indonesia 
+Shopee, Tokopedia, and Bukalapak are 3 biggest e-commerce players in Indonesia
+Shopee's performance excel Tokopedia dan Bukalapak
 
-### Markdown
+![Strategic Management - Shopee](
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Slides](https://drive.google.com/file/d/1kLa41VSAOe1FPV0voDpLiyIx9iR2c_fh/view?usp=sharing)
+[Full Report (in Bahasa)](https://drive.google.com/file/d/1WiNNt4IN5N15X8FHODCUUJiB4KukJ-3Y/view?usp=sharing)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hanswibisono/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Let me know you more!
+Let's connect on [LinkedIn] (https://www.linkedin.com/in/hans-wibisono/)!
