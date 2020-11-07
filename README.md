@@ -1,11 +1,10 @@
-# Hi there!
-## Thank you for visiting :smile:
+# Hi there! Thank you for visiting :smile:
 
 My name is Hans Wibisono, a fresh graduate with bachelor degree in business from Prasetiya Mulya University.
 
 This page is intended to display my portfolio to let you know me better!
 
-### The Impact of SEA GROUP’S IPO Towards Shopee Indonesia 
+### [Analysis] The Impact of SEA GROUP’S IPO Towards Shopee Indonesia 
 #### Key Takeaways :
 * The IPO filing from SEA Group open opportunities for Shopee Indonesia to enhance their product, business, and employee performances
 
@@ -23,4 +22,4 @@ This page is intended to display my portfolio to let you know me better!
 
 
 ### Let me know you more!
-Let's connect on [LinkedIn](https://www.linkedin.com/in/hans-wibisono/)
+We can connect on [LinkedIn](https://www.linkedin.com/in/hans-wibisono/) or mail me at hanswibisono.s@gmail.com for a talk!
