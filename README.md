@@ -15,7 +15,7 @@ A final paper for Strategic Management course, the big theme was strategy formul
 * Shopee's performance excel Tokopedia dan Bukalapak
 
 
-[Slides](https://drive.google.com/file/d/1kLa41VSAOe1FPV0voDpLiyIx9iR2c_fh/view?usp=sharing) **|** [Full Report (in Bahasa)]()
+#### [Slides](https://drive.google.com/file/d/1kLa41VSAOe1FPV0voDpLiyIx9iR2c_fh/view?usp=sharing) [Full Report (in Bahasa)]()
 
 
 ### [Analysis] Organizational Design and Dynamics in Go-jek Indonesia
@@ -29,7 +29,7 @@ A final paper for Organizational Design and Dynamics course.
 * Organization sustainability for Go-jek could be achieved if organization could keep on innovating to meet market demand
 
 
-[Slides](https://drive.google.com/file/d/1TWPJL_x2e-yzom7HqSyYP_YvyLwiC9Ij/view?usp=sharing) **|** [Full Report (in Bahasa)]()
+#### [Slides](https://drive.google.com/file/d/1TWPJL_x2e-yzom7HqSyYP_YvyLwiC9Ij/view?usp=sharing) **|** [Full Report (in Bahasa)]()
 
 
 ### [Project] Community Development, Pro Bono Consulting for Local SME in Indonesia
@@ -43,7 +43,7 @@ A 6-months project to improve local SME's performance on all functions. The proj
 * More effective book-keeping format, emphasizing on recording procurement and sales transaction 
 * Increasing monthly revenue up to 200%, by adding new sales channel (upper-middle cafe consignment & e-commerce)
 
-[Slides](https://drive.google.com/file/d/1aSwsC1TUqb_0HSwSEAMBSDNgK07SrHIQ/view?usp=sharing) **|** [Full Report (in Bahasa)]()
+#### [Slides](https://drive.google.com/file/d/1aSwsC1TUqb_0HSwSEAMBSDNgK07SrHIQ/view?usp=sharing) **|** [Full Report (in Bahasa)]()
 
 
 ### [Analysis] The Impact of SEA GROUP’S IPO Towards Shopee Indonesia
