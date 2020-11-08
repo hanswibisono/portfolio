@@ -16,11 +16,12 @@ A final paper for Strategic Management course, the big theme was strategy formul
 
 #### [Slides](https://drive.google.com/file/d/1kLa41VSAOe1FPV0voDpLiyIx9iR2c_fh/view?usp=sharing) **|** [Full Report (in Bahasa)]()
 
-
+***
 
 ### [Analysis] Organizational Design and Dynamics in Go-jek Indonesia
 ![ODD - Gojek](https://user-images.githubusercontent.com/74061521/98440267-80e89000-212a-11eb-9a4e-9c1ff9130543.jpg)
-A final paper for Organizational Design and Dynamics course.
+A final paper for Organizational Design and Dynamics course. Go-jek is one of the fastest growing startup in Indonesia, we explored how organizational design and dynamics help them as an organization to grow and innovate in the market.
+
 #### Key Takeaways :
 * Go-jek's Business Model & System established significant competitive advantage and increased their success rate in the future
 * For Go-jek, failure is a resource for future innovation
@@ -30,12 +31,13 @@ A final paper for Organizational Design and Dynamics course.
 
 #### [Slides](https://drive.google.com/file/d/1TWPJL_x2e-yzom7HqSyYP_YvyLwiC9Ij/view?usp=sharing) **|** [Full Report (in Bahasa)]()
 
-
+***
 
 ### [Project] Community Development, Pro Bono Consulting for Local SME in Indonesia
 ![COMDEV - Pro Bono Consulting Project](https://user-images.githubusercontent.com/74061521/98443450-e7c37480-213d-11eb-9cef-6c1d89355fe9.jpg)
-A 6-months project to improve local SME's performance on all functions. The project has 2 phases, the on-site phase for a month, and followed by off-site phase for 5 months . I led a team of 7 and in charge of Finance & Accounting.
+A 6-months project to improve local SME's performance on all functions. The project has 2 phases, the on-site phase for a month, and followed by off-site phase for 5 months.
 
+**In charge of**:  Team Leader of 7 & Finance
 
 #### Key Deliverables :
 * Eisenhower (Importance - Urgency) Matrix suggest our team to focus on selecting the most sustainable sales channel
@@ -45,11 +47,44 @@ A 6-months project to improve local SME's performance on all functions. The proj
 
 #### [Slides](https://drive.google.com/file/d/1aSwsC1TUqb_0HSwSEAMBSDNgK07SrHIQ/view?usp=sharing) **|** [Full Report (in Bahasa)]()
 
+***
 
+### [Analysis] Combiphar as a Family Business
+![FAMBUS - Combiphar](https://user-images.githubusercontent.com/74061521/98455600-80410f80-21a5-11eb-977c-55ff761323c7.jpg)
+An analysis of Combiphar Indonesia as a Family Business, in which we analyzed their Family Genogram, Vision & Mission, Organization Value, Organizational Transformation, Conflict of Family Governance, Estate Planning, Transgenerational Entrepreneurial Values, Family Constitution and Adizes Chart
 
-### [Analysis] The Impact of SEA GROUP’S IPO Towards Shopee Indonesia
-### [Analysis] The Impact of SEA GROUP’S IPO Towards Shopee Indonesia
-### [Analysis] The Impact of SEA GROUP’S IPO Towards Shopee Indonesia
+#### [Slides](https://drive.google.com/file/d/1QxCy8vBx-GumnhIkMt-NzuxniYg9O1Mk/view?usp=sharing) **|** [Full Report (in Bahasa)]()
+
+***
+
+### [Project] SME Process Improvement
+![BPI - SME Process Improvement](https://user-images.githubusercontent.com/74061521/98455726-3f49fa80-21a7-11eb-9a49-ab7d9ed3a087.jpg)
+An improvement project for local F&B small enterprise using DMAIC framework.
+
+#### Key Deliverables :
+* 15% faster serving time by reducing customer waiting & ordering time
+* Writing and socializing current SOP to minimize employee's idle time and serve order consistently
+
+### [Slides](https://drive.google.com/file/d/1A6l1soAouC69YeAvVa1nigXWI_XnUPWB/view?usp=sharing) **|** [Full Report (in Bahasa)]()
+
+***
+
+### [Project] Enchante Business Plan (Women Footwear)
+![THESIS - Enchante Business Plan](https://user-images.githubusercontent.com/74061521/98456147-72db5380-21ac-11eb-9b72-442d57d1749a.jpg)
+The business plan is the final thesis for students in Prasetiya Mulya University. Our team's idea came from the problem in women footwear, especially high heels which is hurtful and tiresome to wear. Our product is a high-heeled shoes with detachable mechanism to adjust user's need in wearing the footwear. 
+
+**In charge of**:  Market Research & Finance
+
+#### Key Deliverables : 
+* +1.1 million market size and 2nd biggest creative industry according to BEKRAF in 2016
+* Upper Middle, Affluent, and Ellite as the target market, from Gen Y & Z
+* Ensuring product quality by multiple quality control and defect mitigation throughout the supply chain
+* Using Partnership Accounting & Cash Accounting format for book-keeping
+* Comprehensive google sheet formulas to build financial report (Sales & Production, Cash Budget, P&L, Partner's Account, BS, Financial Ratios) 
+
+### [Slides](https://drive.google.com/file/d/1CNAq_8O4uNQyNg608fR02S5Ojdb2RO6o/view?usp=sharing)
+
+***
 
 ### Let me know you more!
 We can connect on [LinkedIn](https://www.linkedin.com/in/hans-wibisono/) or mail me at hanswibisono.s@gmail.com for a talk!
