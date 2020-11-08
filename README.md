@@ -1,6 +1,6 @@
 # Hi there! Thank you for visiting!
 
-## My name is Hans Wibisono, a fresh graduate with bachelor degree in business from Prasetiya Mulya University.
+## <div style="text-align: right"> My name is Hans Wibisono, a fresh graduate with bachelor degree in business from Prasetiya Mulya University, Indonesia </div>
 
 *This page is intended to display my portfolio to let you know me better!*
 
