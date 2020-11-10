@@ -6,10 +6,16 @@
 
 ***
 
+### [Internship] Shopee - Business Development
+<div style="text-align: justify"> I learned a lot about <b>Excel Formulas</b> in Shopee, I started using more complex formulas to build the financial reports on my team's business plan as our thesis, including pivot table, importrange, etc. The biggest advantage was the auto-update of our ratios calculation like NPV, PP, BEP, and the reports such as P&L and Cash Budget, yet it is certainly necessary to set a limit for the auto-update, to prevent bullwhip errors from a small mistakes. I also enhanced and simplify the revenue-sharing calculation for my family's foodcourt using spreadsheet formulas. The challenges for revenue-sharing system were the multiple source of cash inflow (cashier & gojek) and outflow (supplies, receivables, and the sharing percentage itself). I also used pivot table to build financial reports after organizing the required raw data. Looking back at my university tasks, most of them could be done more efficiently, if I were creative enough to utilize that.</br>
+
+#### [Read Post](https://hanswibisono.github.io/portfolio/internship-shopee)
+
+***
 
 ### [Project] Enchante Business Plan (Women Footwear)
 ![THESIS - Enchante Business Plan](https://user-images.githubusercontent.com/74061521/98456147-72db5380-21ac-11eb-9b72-442d57d1749a.jpg)
-<div style="text-align: justify"> The business plan is the final thesis for students in Prasetiya Mulya University. Our team's idea came from the problem in women footwear, especially high heels which is hurtful and tiresome to wear. Our product is a high-heeled shoes with detachable mechanism to adjust user's need in wearing the footwear. </div><br/>
+<div style="text-align: justify">The business plan is the final thesis for students in Prasetiya Mulya University. Our team's idea came from the problem in women footwear, especially high heels which is hurtful and tiresome to wear. Our product is a high-heeled shoes with detachable mechanism to adjust user's need in wearing the footwear. </div><br/>
 **In charge of**:  Market Research & Finance
 
 #### Key Deliverables : 
