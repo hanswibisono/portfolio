@@ -10,8 +10,7 @@
 ### [Analysis] The Impact of SEA Group’s IPO Towards Shopee Indonesia 
 ![Strategic Management - Shopee](https://user-images.githubusercontent.com/74061521/98436664-c055b300-210f-11eb-80a1-c3cea7879e3b.jpg)
 <div style="text-align: justify">
-A final paper for Strategic Management course, the big theme was strategy formulation, implementation, and evaluation. We decided to dig more in e-commerce industry, especially Shopee as industry's leader in innovation and sales in Indonesia.</div>
-
+A final paper for Strategic Management course, the big theme was strategy formulation, implementation, and evaluation. We decided to dig more in e-commerce industry, especially Shopee as industry's leader in innovation and sales in Indonesia.</div></br>
 #### Key Takeaways :
 * The IPO filing from SEA Group opened opportunities for Shopee Indonesia to enhance their product, business, and employee performances
 * Shopee Men is the actualization of Market Penetration by Shopee Indonesia 
@@ -24,8 +23,7 @@ A final paper for Strategic Management course, the big theme was strategy formul
 
 ### [Analysis] Organizational Design and Dynamics in Go-jek Indonesia
 ![ODD - Gojek](https://user-images.githubusercontent.com/74061521/98440267-80e89000-212a-11eb-9a4e-9c1ff9130543.jpg)
-<div style="text-align: justify"> A final paper for Organizational Design and Dynamics course. Go-jek is one of the fastest growing startup in Indonesia, we explored how organizational design and dynamics help them as an organization to grow and innovate in the market. </div>
-
+<div style="text-align: justify"> A final paper for Organizational Design and Dynamics course. Go-jek is one of the fastest growing startup in Indonesia, we explored how organizational design and dynamics help them as an organization to grow and innovate in the market. </div></br>
 #### Key Takeaways :
 * Go-jek's Business Model & System established significant competitive advantage and increased their success rate in the future
 * For Go-jek, failure is a resource for future innovation
@@ -54,16 +52,14 @@ A final paper for Strategic Management course, the big theme was strategy formul
 
 ### [Analysis] Combiphar as a Family Business
 ![FAMBUS - Combiphar](https://user-images.githubusercontent.com/74061521/98455600-80410f80-21a5-11eb-977c-55ff761323c7.jpg)
-<div style="text-align: justify"> An analysis of Combiphar Indonesia as a Family Business, in which we analyzed their Family Genogram, Vision & Mission, Organization Value, Organizational Transformation, Conflict of Family Governance, Estate Planning, Transgenerational Entrepreneurial Values, Family Constitution and Adizes Chart </div>
-
+<div style="text-align: justify"> An analysis of Combiphar Indonesia as a Family Business, in which we analyzed their Family Genogram, Vision & Mission, Organization Value, Organizational Transformation, Conflict of Family Governance, Estate Planning, Transgenerational Entrepreneurial Values, Family Constitution and Adizes Chart </div></br>
 #### [Slides](https://drive.google.com/file/d/1QxCy8vBx-GumnhIkMt-NzuxniYg9O1Mk/view?usp=sharing) **|** [Full Report (in Bahasa)]()
 
 ***
 
 ### [Project] SME Process Improvement
 ![BPI - SME Process Improvement](https://user-images.githubusercontent.com/74061521/98455726-3f49fa80-21a7-11eb-9a49-ab7d9ed3a087.jpg)
-<div style="text-align: justify"> An improvement project for local F&B small enterprise using DMAIC framework. </div>
-
+<div style="text-align: justify"> An improvement project for local F&B small enterprise using DMAIC framework. </div></br>
 #### Key Deliverables :
 * 15% faster serving time by reducing customer waiting & ordering time
 * Writing and socializing current SOP to minimize employee's idle time and serve order consistently
