@@ -12,6 +12,13 @@
 
 ***
 
+### [Internship] Lodestar - Coordinator of Facilitator
+![Organization - Lodestar](https://user-images.githubusercontent.com/74061521/98791399-97972b80-2437-11eb-81d2-c89436326c7c.JPG)
+<div style="text-align: justify"></div>
+#### [Read Post](https://hanswibisono.github.io/portfolio/lodestar)
+
+***
+
 ### [Project] Enchante Business Plan (Women Footwear)
 ![THESIS - Enchante Business Plan](https://user-images.githubusercontent.com/74061521/98456147-72db5380-21ac-11eb-9b72-442d57d1749a.jpg)
 <div style="text-align: justify">The business plan is the final thesis for students in Prasetiya Mulya University. Our team's idea came from the problem in women footwear, especially high heels which is hurtful and tiresome to wear. Our product is a high-heeled shoes with detachable mechanism to adjust user's need in wearing the footwear. </div><br/>
