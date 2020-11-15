@@ -107,3 +107,5 @@ A final paper for Strategic Management course, the big theme was strategy formul
 
 ### Let me know you more!
 We can connect on [LinkedIn](https://www.linkedin.com/in/hans-wibisono/) or mail me at hanswibisono.s@gmail.com for a talk!
+
+<link rel="icon" href="https://user-images.githubusercontent.com/74061521/99178539-a1c26e00-2746-11eb-9ac2-21eadf7454c5.png">
