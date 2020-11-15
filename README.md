@@ -1,3 +1,8 @@
+ <head>
+    ...
+    <link rel="shortcut icon" type="image/png" href="https://user-images.githubusercontent.com/74061521/99178605-6c6a5000-2747-11eb-9173-1d2a1d451b6c.png">
+ </head>
+
 # Hi there! Thank you for visiting!
 
 ##  My name is Hans Wibisono, a fresh graduate with bachelor degree in business from Prasetiya Mulya University, Indonesia
@@ -107,5 +112,3 @@ A final paper for Strategic Management course, the big theme was strategy formul
 
 ### Let me know you more!
 We can connect on [LinkedIn](https://www.linkedin.com/in/hans-wibisono/) or mail me at hanswibisono.s@gmail.com for a talk!
-
-<link rel="shortcut icon" type="image/x-icon" href="https://user-images.githubusercontent.com/74061521/99178605-6c6a5000-2747-11eb-9173-1d2a1d451b6c.png">
