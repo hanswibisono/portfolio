@@ -1,5 +1,5 @@
-    <link rel="shortcut icon" type="image/png" 
-      href="{{ "favicon.png"  | https://github.com/hanswibisono/portfolio/blob/main/favico.png }}">
+<head><link rel="shortcut icon" type="image/png" 
+      href="{{ "favicon.png"  | https://github.com/hanswibisono/portfolio/blob/main/favico.png }}"></head>
 # Hi there! Thank you for visiting!
 
 ##  My name is Hans Wibisono, a fresh graduate with bachelor degree in business from Prasetiya Mulya University, Indonesia
