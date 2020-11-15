@@ -1,6 +1,5 @@
  <head>
-    ...
-    <link rel="shortcut icon" type="image/png" href="https://user-images.githubusercontent.com/74061521/99178605-6c6a5000-2747-11eb-9173-1d2a1d451b6c.png">
+    <link rel="shortcut icon" type="image/png" href="favico.png">
  </head>
 
 # Hi there! Thank you for visiting!
