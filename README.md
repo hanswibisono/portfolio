@@ -12,7 +12,7 @@
 
 ***
 
-### [Internship] Lodestar - Coordinator of Facilitator
+### [Organization] Lodestar - Coordinator of Facilitator
 ![Organization - Lodestar](https://user-images.githubusercontent.com/74061521/98791399-97972b80-2437-11eb-81d2-c89436326c7c.JPG)
 <div style="text-align: justify"></div>
 #### [Read Post](https://hanswibisono.github.io/portfolio/lodestar)
@@ -108,4 +108,4 @@ A final paper for Strategic Management course, the big theme was strategy formul
 ### Let me know you more!
 We can connect on [LinkedIn](https://www.linkedin.com/in/hans-wibisono/) or mail me at hanswibisono.s@gmail.com for a talk!
 
-<link rel="icon" href="https://user-images.githubusercontent.com/74061521/99178539-a1c26e00-2746-11eb-9ac2-21eadf7454c5.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://user-images.githubusercontent.com/74061521/99178605-6c6a5000-2747-11eb-9173-1d2a1d451b6c.png">
