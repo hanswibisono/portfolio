@@ -14,7 +14,7 @@
 
 ### [Organization] Lodestar - Coordinator of Facilitator
 ![Organization - Lodestar](https://user-images.githubusercontent.com/74061521/98791399-97972b80-2437-11eb-81d2-c89436326c7c.JPG)
-<div style="text-align: justify"></div>
+<div style="text-align: justify"> The 8-months program is the most recent leadership experiences of mine, leading 115 facilitators with a team of 6 to guide more than 1,100 freshmen during their 1st semester. As a leader, I tried to breakdown some of the lesson learned from problem-solving and teamwork that me and my team encountered. The program ended with me feeling of gratitude for the wholesome experience during my penultimate year in university.</div>
 #### [Read Post](https://hanswibisono.github.io/portfolio/lodestar)
 
 ***
